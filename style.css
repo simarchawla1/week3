@@ -1,0 +1,60 @@
+#header-nav{
+    background-color: #007bff;
+    border-radius: 0;
+    border: 0;
+    
+   
+}
+.heading{
+    margin-top: 5px;
+    padding: 2px;
+}
+.container{
+    margin: 0;
+  
+}
+.navbar-brand{
+    font-size: 2.4em;
+   
+  
+} 
+.head{
+   color: wheat;
+} 
+a{
+   color: wheat;
+} 
+
+
+h2{
+    
+  font-family:  monospace;
+}
+h3{
+  color:  wheat;  
+  font-family:  monospace;
+  font-weight:  bold;
+}
+.content{
+    background-color:  #007bff;
+      
+}
+p{
+  color:  white;   
+}
+span a{
+  color: #b92c28;   
+}
+#nav-list{
+  margin-top: 10px;   
+}
+#nav-list a{
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+  
+}
+#nav-list a:hover{
+  background-color: wheat;
+  
+}
